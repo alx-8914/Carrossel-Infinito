@@ -15,4 +15,4 @@
 <p>Portifólio Elaborado em forma de carrossel, mostrando a fase de evoluçõa de conhecimento nas tecnologias HTML & CSS com animação utilizando ferramentos como:
 animatio e @keyframes dando esse efeito de carrossel.</p>
 <img src="Captura de tela carrossel .png">
-<img src="Captura de tela Select .png  ">
+<img src="Captura de tela Select.png">
